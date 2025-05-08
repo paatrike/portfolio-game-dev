@@ -25,14 +25,14 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-✏️ Edit directly in GitHub
+# ✏️ Edit directly in GitHub
 Browse to the file you want to change.
 
 Click the pencil icon to edit.
 
 Commit your changes.
 
-💻 Use GitHub Codespaces
+# 💻 Use GitHub Codespaces
 Open the repository.
 
 Click the Code button.
@@ -41,7 +41,7 @@ Go to the Codespaces tab.
 
 Click New codespace to launch an editable environment in your browser.
 
-🧪 Technologies Used
+# 🧪 Technologies Used
 This project is built using:
 
 ⚡ Vite

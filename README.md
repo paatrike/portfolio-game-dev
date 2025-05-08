@@ -54,10 +54,10 @@ This project is built using:
 
 🎨 Tailwind CSS
 
-🚀 Deployment
+# 🚀 Deployment
 You can deploy this app using any platform that supports Vite/React apps (e.g., Vercel, Netlify, or GitHub Pages). Choose one based on your hosting preference and follow their deployment instructions.
 
-🌐 Custom Domain
+# 🌐 Custom Domain
 Yes, you can connect a custom domain!
 
 If your hosting provider allows domain connections, follow their documentation to set up your domain for this project.

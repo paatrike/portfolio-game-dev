@@ -1,4 +1,4 @@
-🚀 patrick's Project
+## 🚀 patrick's Project
 Welcome to patrick's personal project – a modern web application built with cutting-edge tools. This project reflects my work, ideas, and development style.
 
 

@@ -12,6 +12,7 @@ You can modify the code in a few different ways:
 ✅ Use your preferred IDE
 If you'd like to work locally:
 
+```sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
@@ -23,6 +24,7 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
+```
 ✏️ Edit directly in GitHub
 Browse to the file you want to change.
 
